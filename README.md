@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to My Github Space 👋
+
+<a href="hasoo4963@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/hasoo4963/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasoo4963&show_icons=true&theme=yeblu )
 
 <!--
 **hasoo4963/hasoo4963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
