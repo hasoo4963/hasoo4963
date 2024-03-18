@@ -7,6 +7,22 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasoo4963&show_icons=true&theme=yeblu )
 
+## 🌱 I’m currently learning ...
+<div style="display:flex; flex-direction:row;">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/java-00599C?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</div>
+
+
+## 🌱 I've used it before ...
+<div style="display:flex; flex-direction:row;">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
